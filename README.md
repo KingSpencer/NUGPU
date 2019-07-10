@@ -1,1 +1,3 @@
-## This repo contains homeworks and final project of GPU programming class in NEU. Written in C & CUDA.
+## NUGPU
+This repo contains homeworks and final project of GPU programming class in NEU. 
+Written in C & CUDA.
