@@ -1,0 +1,40 @@
+Kernel Execution Time: 6.075872 ms
+CPU execution time: 12.5072 ms
+GPU execution time: 13.2074 ms
+Percentage difference: 0 %
+Kernel Execution Time: 6.110048 ms
+CPU execution time: 5.90668 ms
+GPU execution time: 11.8619 ms
+Percentage difference: 0 %
+Kernel Execution Time: 6.089120 ms
+CPU execution time: 12.0028 ms
+GPU execution time: 11.8729 ms
+Percentage difference: 0 %
+Kernel Execution Time: 6.131296 ms
+CPU execution time: 5.60533 ms
+GPU execution time: 12.2729 ms
+Percentage difference: 0 %
+Kernel Execution Time: 6.036128 ms
+CPU execution time: 13.6942 ms
+GPU execution time: 12.6712 ms
+Percentage difference: 0 %
+Kernel Execution Time: 6.128032 ms
+CPU execution time: 9.79352 ms
+GPU execution time: 12.4145 ms
+Percentage difference: 0 %
+Kernel Execution Time: 6.049824 ms
+CPU execution time: 13.4813 ms
+GPU execution time: 11.9242 ms
+Percentage difference: 0 %
+Kernel Execution Time: 6.102688 ms
+CPU execution time: 11.3836 ms
+GPU execution time: 12.8929 ms
+Percentage difference: 0 %
+Kernel Execution Time: 6.105728 ms
+CPU execution time: 12.6941 ms
+GPU execution time: 13.2974 ms
+Percentage difference: 0 %
+Kernel Execution Time: 6.074368 ms
+CPU execution time: 6.28959 ms
+GPU execution time: 12.9 ms
+Percentage difference: 0 %
